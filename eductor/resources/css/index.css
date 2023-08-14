@@ -1,0 +1,152 @@
+#logo{
+    width: 11.5%;
+}
+#nav_div{
+    margin: 0px 42px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    clear: both;
+}
+#nav_elements_div{
+    float: right;
+}
+.nav_items{
+    display: inline-block;
+    text-decoration: none;
+    box-sizing: border-box;
+    color: black;
+    padding: 30px 15px;
+    font-family: Lora_semibold,Arial, sans-serif;
+    font-weight: 750;
+    font-size: 13px;
+}
+.icons{
+    font-size: 12px;
+    padding: 12px;
+}
+#main_1{
+    margin: 0px 80px;
+}
+#background_div{
+    width: 100%;
+    height: auto;
+}
+#one_first{
+    width: 50%;
+    height: auto;
+    display: inline-block;
+}
+.img_1{
+    width: 100%;
+    height: auto;
+}
+
+.small_1{
+    width: 49.6%;
+    height: auto;
+    display: inline-block;
+    position: relative;
+}
+#small_1_letter{
+    position: absolute;
+    top : 0;
+    margin: 30px;
+}
+#letter_1{
+    color: white;
+    font-size: 25px;
+    line-height: 37px;
+    margin: 20px 0px;
+}
+#link_1{
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-family: Lora_semibold,Arial, sans-serif;
+}
+.logo_earth{
+    color: white;
+    font-size: 30px;
+}
+.small_2{
+    width: 49.6%;
+    height: auto;
+    display: inline-block;
+}
+.small_3{
+    background-color: whitesmoke;
+    width: 49.6%;
+    height: 270px;
+    display: inline-block;
+}
+#small_3_letter{
+    position: absolute;
+    margin: 30px;
+}
+.logo_id{
+    color: rgb(169, 166, 166);
+    font-size: 30px;
+}
+#letter_3{
+    color:rgb(61, 61, 61) ;
+    font-size: 25px;
+    line-height: 37px;
+    margin: 20px 0px;
+
+}
+.small_4{
+    display: inline-block;
+    width: 49.6%;
+    height: 270px;
+    background-color: rgb(250, 203, 117);
+}
+#letter_4{
+    color: white;
+    font-size: 28px;
+    line-height: 37px;
+    margin: 80px 28px;
+    position: absolute;
+}
+#one_sec{
+    width: 50%;
+    float: right;
+    height: auto;
+    position: relative;
+}
+.img_2{
+    height: 544px;
+}
+#one_sec_letter{
+    position: absolute;
+    top: 0;
+    margin: 80px 60px;
+}
+#sec_letter_1{
+    color: white;
+    margin: 20px 0px;
+    font-size: 22px;
+    font-weight: 600;
+}
+#sec_letter_2{
+    color: white;
+    font-size:43px ;
+    margin-bottom: 24px;
+}
+#sec_para{
+    color: white;
+    line-height: 27px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+#sec_button{
+    text-decoration: none;
+    margin-top: 25px;
+    padding: 16px 50px;
+    color: rgb(78, 78, 78);
+    font-size: 14px;
+    font-weight: 600;
+}

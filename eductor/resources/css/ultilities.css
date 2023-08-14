@@ -1,0 +1,12 @@
+@font-face{
+    font-family: Lora_semibold;
+    src:url('..fonts/Lora/static/Lora-SemiBold.ttf') format('truetype')
+}
+*,
+::before,
+::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
